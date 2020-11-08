@@ -1,5 +1,5 @@
 # Hack-a-Sketch
-Digital Version of the beloved Etch-a-Sketch
+Digital Version of the beloved Etch-a-Sketch. Visit https://devpost.com/software/hack-a-sketch for more documentation.
 
 ## Hardware
 Upload the Arduino sketch in the hardware folder. Make sure to look at the pin assignments to make sure that the potentiometers and tilt switch is connected properly. A 10KΩ resistor is connected with the tilt switch to prevent a short-circuit.
